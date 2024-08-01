@@ -3,4 +3,4 @@ ragtarget/.env
 ragtarget/settings.yaml
 ragtarget/output
 ragtarget/cache
-ragtarget/lancedb
+ragtarget/lancedb/
