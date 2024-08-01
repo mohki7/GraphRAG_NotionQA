@@ -1,1 +1,3 @@
 # GraphRAG_NotionQA
+
+GraphRAGを使って、自分のNotionの内容についてQAできるチャットボットを作ります
